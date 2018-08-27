@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d0e819a-7104-4747-b6cb-1959145ece21" name="Default Changelist" comment="" />
+    <list default="true" id="2d0e819a-7104-4747-b6cb-1959145ece21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -28,6 +31,7 @@
           <entry key="gitignore" value="4" />
           <entry key="js" value="2" />
           <entry key="json" value="2" />
+          <entry key="md" value="1" />
           <entry key="ts" value="9" />
         </counts>
       </usages-collector>
@@ -35,7 +39,7 @@
         <counts>
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="2" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="TypeScript" value="9" />
           <entry key="tsconfig" value="1" />
         </counts>
@@ -49,13 +53,15 @@
         <counts>
           <entry key="gitignore" value="6" />
           <entry key="json" value="191" />
+          <entry key="md" value="95" />
           <entry key="ts" value="2497" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="140" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="PLAIN_TEXT" value="114" />
           <entry key="TypeScript" value="2497" />
           <entry key="tsconfig" value="51" />
         </counts>
@@ -68,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/src/index.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -80,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/src/router/PostRouter.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+              <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
               <folding>
                 <element signature="e#0#67#0" expanded="true" />
               </folding>
@@ -88,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -97,11 +103,16 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/models/Post.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="552">
-              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -123,6 +134,7 @@
         <option value="$PROJECT_DIR$/src/router/UserRouter.ts" />
         <option value="$PROJECT_DIR$/src/server.ts" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -199,12 +211,20 @@
       <workItem from="1535239962855" duration="1178000" />
       <workItem from="1535267779734" duration="8446000" />
       <workItem from="1535366090188" duration="5656000" />
-      <workItem from="1535396276385" duration="4204000" />
+      <workItem from="1535396276385" duration="4573000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1535411400042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535411400042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27787000" />
+    <option name="totallyTimeSpent" value="28156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="25" width="1321" height="743" extended-state="6" />
@@ -214,9 +234,9 @@
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18615384" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.27625203" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.27625203" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" weight="0.32956383" />
+      <window_info anchor="bottom" id="Version Control" order="3" visible="true" weight="0.32956383" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="TypeScript" order="5" weight="0.32956383" />
       <window_info anchor="bottom" id="Find" order="6" />
@@ -235,6 +255,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build/models/Post.js">
@@ -282,7 +306,7 @@
     <entry file="file://$PROJECT_DIR$/src/models/Post.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -296,7 +320,7 @@
     <entry file="file://$PROJECT_DIR$/src/index.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -306,7 +330,7 @@
     <entry file="file://$PROJECT_DIR$/src/router/PostRouter.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
           <folding>
             <element signature="e#0#67#0" expanded="true" />
           </folding>
@@ -319,6 +343,9 @@
           <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
