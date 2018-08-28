@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d0e819a-7104-4747-b6cb-1959145ece21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,7 +28,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="4" />
-          <entry key="js" value="2" />
+          <entry key="js" value="3" />
           <entry key="json" value="2" />
           <entry key="md" value="1" />
           <entry key="ts" value="9" />
@@ -38,7 +37,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="2" />
+          <entry key="JavaScript" value="3" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="TypeScript" value="9" />
           <entry key="tsconfig" value="1" />
@@ -52,6 +51,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="6" />
+          <entry key="js" value="25" />
           <entry key="json" value="191" />
           <entry key="md" value="95" />
           <entry key="ts" value="2497" />
@@ -61,6 +61,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="140" />
+          <entry key="JavaScript" value="25" />
           <entry key="PLAIN_TEXT" value="114" />
           <entry key="TypeScript" value="2497" />
           <entry key="tsconfig" value="51" />
@@ -104,6 +105,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -135,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/server.ts" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/test.js" />
       </list>
     </option>
   </component>
@@ -211,7 +222,7 @@
       <workItem from="1535239962855" duration="1178000" />
       <workItem from="1535267779734" duration="8446000" />
       <workItem from="1535366090188" duration="5656000" />
-      <workItem from="1535396276385" duration="4573000" />
+      <workItem from="1535396276385" duration="5365000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1535411400042</created>
@@ -224,7 +235,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28156000" />
+    <option name="totallyTimeSpent" value="28948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="25" width="1321" height="743" extended-state="6" />
@@ -234,9 +245,9 @@
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18615384" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.27625203" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.27625203" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" visible="true" weight="0.32956383" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.32956383" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="TypeScript" order="5" weight="0.32956383" />
       <window_info anchor="bottom" id="Find" order="6" />
@@ -337,6 +348,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -344,8 +358,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
